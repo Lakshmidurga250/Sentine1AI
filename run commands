@@ -1,0 +1,41 @@
+*Repository:* https://github.com/Lakshmidurga250/Sentine1AI
+
+Please follow these steps on your computer:
+
+*Step 1: Clone the project*
+
+Open PowerShell or VS Code Terminal and run:
+
+powershell
+git clone https://github.com/Lakshmidurga250/Sentine1AI.git
+cd Sentine1AI
+
+
+*Step 2: Create your own branch*
+
+Replace your-name with your name:
+
+powershell
+git switch -c feature/your-name-contribution
+
+
+*Step 3: Configure your Git identity*
+
+Use your own name and the email linked to your GitHub account:
+
+powershell
+git config user.name "YOUR NAME"
+git config user.email "YOUR-GITHUB-EMAIL"
+
+
+*Step 4: Make a genuine project contribution*
+
+Open the project in VS Code and complete an assigned task. Save your actual changes.
+
+*Step 5: Commit and push your changes*
+
+powershell
+git status
+git add <your-changed-file>
+git commit -m "Describe your actual changes"
+git push -u origin feature/your-name-contribution
